@@ -22,5 +22,7 @@ Approach Followed :
 2. Used MVP design pattern.
 3. Used mix of storyboard and xib.
 
+Know Issues:
+1. Email/Passowrd validation check is not done for demo purpose.
 
 
