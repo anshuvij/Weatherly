@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>708651339093-8h2luigk1ki0spiab6ng6crbv96daeso.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.708651339093-8h2luigk1ki0spiab6ng6crbv96daeso</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBp2_IeT_jyk_fr7kret6iYcKmgemSelvc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>708651339093</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.anshuvij.WeatherlyiOS</string>
+	<key>PROJECT_ID</key>
+	<string>weatherlyios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weatherlyios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:708651339093:ios:7251101e000e4fbdbcf3dc</string>
+</dict>
+</plist>
