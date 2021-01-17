@@ -26,5 +26,5 @@ Weather App which fetches 5 days weather for any location.
 # Know Issues:
 1. Email/Passowrd validation check is not done for demo purpose.
 
-
+# Screenshot:
 [![screenshot.png](https://i.postimg.cc/pTgTwt8M/screenshot.png)](https://postimg.cc/VrWmtpDK)
