@@ -8,6 +8,7 @@ Weather App which fetches 5 days weather for any location.
 3. Added Line Chart to show 5 days max and min temprature.
 4. Saved user's last selected location on Firebase cloudstore and fetch weather for that location on app launch.
 5. Added feature to save login detail, user don't need to login eveytime to use the app.
+6. Added feature to search by city name as well as pincode.
 
 # Thridparty SDK Used:
 1. Firebase for login, signup and storing user's location data.
@@ -26,3 +27,4 @@ Weather App which fetches 5 days weather for any location.
 1. Email/Passowrd validation check is not done for demo purpose.
 
 
+![screenshot](https://user-images.githubusercontent.com/12726615/104852547-a7dcf280-5921-11eb-8dd8-01c10055883d.png)
