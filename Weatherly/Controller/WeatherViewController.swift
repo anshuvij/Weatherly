@@ -160,7 +160,7 @@ class WeatherViewController: UIViewController {
             print("#Debug:User not logged in")
             DispatchQueue.main.async {
                 let storyboard = UIStoryboard(name: "Main", bundle: nil)
-                let loginNavController = storyboard.instantiateViewController(identifier: "ViewController")
+                let loginNavController = storyboard.instantiateViewController(identifier: Constants.viewControllerName)
                 
                 (UIApplication.shared.connectedScenes.first?.delegate as? SceneDelegate)?.changeRootViewController(loginNavController)
             }
@@ -179,7 +179,7 @@ class WeatherViewController: UIViewController {
         do {
             try Auth.auth().signOut()
             let storyboard = UIStoryboard(name: "Main", bundle: nil)
-            let loginNavController = storyboard.instantiateViewController(identifier: "ViewController")
+            let loginNavController = storyboard.instantiateViewController(identifier: Constants.viewControllerName)
             
             (UIApplication.shared.connectedScenes.first?.delegate as? SceneDelegate)?.changeRootViewController(loginNavController)
             
