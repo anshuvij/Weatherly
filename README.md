@@ -4,6 +4,7 @@ Weather App which fetches 5 days weather for any location.
 Features Added:
 1. Added login/signup using Firebase.
 2. Added location autocomplete using MKLocalSearchCompleter.
+3. Added custom table view for MKLocalSearchCompleter.
 3. Added Line Chart to show 5 days max and min temprature.
 4. Saved user's last selected location on Firebase cloudstore and fetch weather for that location on app launch.
 5. Added feature to save login detail, user don't need to login eveytime to use the app.
