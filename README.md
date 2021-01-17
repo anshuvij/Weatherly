@@ -24,7 +24,7 @@ Weather App which fetches 5 days weather for any location.
 3. Used mix of storyboard and xib.
 
 # Know Issues:
-1. Email/Passowrd validation check is not done for demo purpose.
+1. Email/Password validation check is not done for demo purpose.
 
 # Screenshot:
 [![Screen-Shot-2021-01-18-at-12-29-35-AM.png](https://i.postimg.cc/FHZZghkR/Screen-Shot-2021-01-18-at-12-29-35-AM.png)](https://postimg.cc/hXXTKWrW)
