@@ -144,6 +144,7 @@ class WeatherViewController: UIViewController {
         xAxisValue.valueFormatter = axisFormatDelegate
         xAxisValue.gridLineWidth = 0.0
         xAxisValue.xOffset = 0.5
+        xAxisValue.labelTextColor = .white
         self.lineChartView.rightAxis.enabled = false
         self.lineChartView.leftAxis.enabled = false
         lineChartView.animate(xAxisDuration: 2.0, yAxisDuration: 2.0 , easingOption: .easeInBack)
